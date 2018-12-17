@@ -1,0 +1,27 @@
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/bin/Debug/Prime_Minister_Game.exe.config
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/bin/Debug/Prime_Minister_Game.exe
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/bin/Debug/Prime_Minister_Game.pdb
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.csprojAssemblyReference.cache
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.Properties.Resources.resources
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.csproj.GenerateResource.cache
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.csproj.CoreCompileInputs.cache
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.exe
+E:/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.pdb
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.csprojAssemblyReference.cache
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.Properties.Resources.resources
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.csproj.GenerateResource.cache
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.csproj.CoreCompileInputs.cache
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.exe
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/obj/Debug/Prime_Minister_Game.pdb
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/bin/Debug/Prime_Minister_Game.exe.config
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/bin/Debug/Prime_Minister_Game.exe
+/Volumes/ESD-USB/Uni/Assignment 3/Prime_Minister_Game/Prime_Minister_Game/bin/Debug/Prime_Minister_Game.pdb
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\bin\Debug\Prime_Minister_Game.exe.config
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\bin\Debug\Prime_Minister_Game.exe
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\bin\Debug\Prime_Minister_Game.pdb
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\obj\Debug\Prime_Minister_Game.csprojAssemblyReference.cache
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\obj\Debug\Prime_Minister_Game.Properties.Resources.resources
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\obj\Debug\Prime_Minister_Game.csproj.GenerateResource.cache
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\obj\Debug\Prime_Minister_Game.csproj.CoreCompileInputs.cache
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\obj\Debug\Prime_Minister_Game.exe
+D:\Documents\Uni\Programming and Data Structures\Assignment 3\Prime_Minister_Game\Prime_Minister_Game\obj\Debug\Prime_Minister_Game.pdb
